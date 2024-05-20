@@ -1,2 +1,4 @@
 New line to make conflict
 New line
+
+A 
